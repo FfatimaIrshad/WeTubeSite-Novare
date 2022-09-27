@@ -1,6 +1,9 @@
+ 
+ /* Left SideBar styling */
+
 .sidebarRow {
     display: flex;
-    align-items: center;
+    align-items: left;
     padding: 8px 23px;
 }
 
