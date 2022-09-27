@@ -1,3 +1,6 @@
+
+/* styling for web only--- was'nt mentioned in guide */
+
 .header{
 background-color: white;
 display: flex;
@@ -21,9 +24,9 @@ border-bottom: 1px solid lightgray;
 }
 
 .header-logo{
-    width: 130px;
+    width: 120px;
     height: 70px;
-    margin-left: 15px;
+    margin-left: 5px;
     margin-bottom: 3px;
 }
 .header-search{
@@ -72,10 +75,10 @@ border-bottom: 1px solid lightgray;
 
 .header-right{
     display: flex;
-    width: 120px;
+    width: 25%;
     justify-content: space-between;
-    right: 5%;
-    margin-right: 25px;
+    right: 2%;
+    margin-right: 2%;
 }
 
 
