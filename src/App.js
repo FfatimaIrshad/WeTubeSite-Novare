@@ -1,15 +1,18 @@
 import "./App.css";
 import React from "react";
-import Header from "./components/Header.js";
-import { BrowserRouter as Router } from "react-router-dom";
-import Sidebar from "./components/Sidebar";
+import Header from "./Components/Header.js";
+import { BrowserRouter as Router,Route, Routes } from "react-router-dom";
+import Sidebar from "./Components/SideBar";
+import VideoList from "./Components/VideosList";
+
 function App() {
   return (
-    <div className="App">
-      <Router>
-        <Header />
-      </Router>
-    </div>
+    <Router>
+      <Header />
+      <VideoList/>
+      <Sidebar/>
+    </Router>
   );
+
 }
 export default App;

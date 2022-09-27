@@ -1,0 +1,52 @@
+.sidebar{
+    flex: 0.2;
+    background-color: white;
+    
+}
+
+
+
+
+.sidebar > hr{
+    height: 0.9px;
+    border: 0;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.sidebar-creator{
+    width: 85%;
+    margin: auto;
+    color: rgb(78, 75, 75);
+}
+
+.sidebar-creator h4{
+    margin-left: 1px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.sidebar-creator p{
+    font-size: 14px;
+    text-align: justify;
+    margin-top: 10px ;
+    margin-bottom: 15px;
+    /* letter-spacing: 0.02rem; */
+}
+
+.sidebar-avatar{
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    /* margin: auto; */
+    margin-left: 5%;    
+}
+
+.sidebar-avatar h5{
+    margin-left: 10px;
+    font-weight: 400;
+    letter-spacing: 0.02rem;
+}
