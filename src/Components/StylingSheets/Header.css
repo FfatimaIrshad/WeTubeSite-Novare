@@ -12,6 +12,15 @@ z-index: 100;
 align-items: center;
 width: 100%;
 border-bottom: 1px solid lightgray;
+
+border-top: 1px solid lightgray;
+}
+
+
+.header-mic{
+
+    padding-left: 0;
+    margin-left: 0;
 }
 .header-icon{
     color: rgb(34, 32, 32);

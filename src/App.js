@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Header /> {/* Header section aka navbar */}
       <FilterButton /> {/* Video Filter Buttons */}
-      <Sidebar /> {/*  Side static navbar without links but styled */}
+      <Sidebar/> {/*  Side static navbar without links but styled */}
       <VideoList /> {/*  Json data*/}
     </Router>
   );

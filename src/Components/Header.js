@@ -6,7 +6,8 @@ import { Link } from "react-router-dom";
 import MenuIcon from "@material-ui/icons/Search";
 import SearchIcon from "@material-ui/icons/Menu";
 import VideocamIcon from "@material-ui/icons/Videocam";
-import AppsIcon from "@material-ui/icons/Apps";
+// import MicIcon from "@material-ui/icons/Apps";
+import MicIcon from "@material-ui/icons/Mic";
 import NotificationsIcon from "@material-ui/icons/Notifications";
 import { Avatar } from "@material-ui/core";
 
@@ -36,16 +37,20 @@ function Header() {
           <MenuIcon style={{ fontSize: 40 }} className="header-icon" />
         </Link>
       </div>
+      <div className="header-mic">
+        <MicIcon style={{ fontSize: 30 }} className="header-icon" />
+      </div>
 
       <div className="header-right">
         <VideocamIcon style={{ fontSize: 30 }} className="header-icon" />
-        <AppsIcon style={{ fontSize: 30 }} className="header-icon" />
+
         <NotificationsIcon style={{ fontSize: 28 }} className="header-icon" />
         <Avatar
           alt="Remy Sharp"
           src="https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
-          className="header-avatar"/>
-          
+          className="header-avatar"
+        />
+
         {/* Random avatar image from unsplash and can be load only via internet. offline not loaded*/}
         {/* End of header/navbar JSX */}
       </div>

@@ -1,21 +1,18 @@
 import React from "react";
-import HomeIcon  from "@material-ui/icons/Home";
+import HomeIcon  from "@material-ui/icons/Home";    //All icon from material 
 import SidebarRow from './SideBarRow';
 import WhatshotIcon from "@material-ui/icons/Whatshot";
 import SubscriptionsSharpIcon from "@material-ui/icons/SubscriptionsSharp";
-
 import VideoLibraryIcon from "@material-ui/icons/VideoLibrary";
 import HistoryIcon from "@material-ui/icons/History";
 import OndemandVideoIcon from "@material-ui/icons/OndemandVideo";
 import WatchLaterIcon from "@material-ui/icons/WatchLater";
 import ThumbUpAltOutlinedIcon from "@material-ui/icons/ThumbUpAltOutlined";
 import ExpandMoreOutlinedIcon from "@material-ui/icons/ExpandMoreOutlined";
-
 import SettingsIcon from "@material-ui/icons/Settings";
 import FlagIcon from "@material-ui/icons/Flag";
-import HelpIcon from "@material-ui/icons/Help";
+import HelpIcon from "@material-ui/icons/Help"; 
 import FeedbackIcon from "@material-ui/icons/Feedback";
-
 import "./StylingSheets/SideBar.css";
 
 
