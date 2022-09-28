@@ -1,8 +1,83 @@
+/* for  complete videos  */
+* {
+  cursor: pointer;
+}
+.videos {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: row;
+  width: 290px;
+  margin-bottom: 40px;
+  margin-left: 30px;
+}
 
-.videos{
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    background-color: bisque;
-   margin-right: 20%; 
+.video-Thumbnail {
+  height: 165px;
+  width: 200px;
+}
+.channel-Thumbnail {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.channel-description h3 {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 350;
+  letter-spacing: 0.07rem;
+  margin-bottom: 2.5px;
+  white-space: nowrap;
+}
+
+.channel-description {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 350;
+  letter-spacing: 0.07rem;
+  margin-bottom: 2.5px;
+  white-space: nowrap;
+}
+
+.channel-description h4 {
+  margin-left: 2px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  /* text-transform: uppercase; */
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.05rem;
+  color: rgb(41, 39, 39);
+  white-space: nowrap;
+}
+
+/* .column {
+  float: left;
+  width: 33.33%;
+  padding: 25px;
+} */
+
+/* Clear floats after image containers 
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} */
+
+@media screen and (max-width: 600px) {
+  .videos {
+    width: 250px;
+    margin-bottom: 20px;
+  }
+  .video-Thumbnail {
+    height: 130px;
+    width: 245px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
 }
