@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import VideoData from "../VideosData/VideosListData.json";
+import VideoData from "../Data/Data.json";
 import "./StylingSheets/VideosList.css";
 
 
