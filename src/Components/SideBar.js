@@ -16,30 +16,28 @@ import FlagIcon from "@material-ui/icons/Flag";
 import HelpIcon from "@material-ui/icons/Help";
 import FeedbackIcon from "@material-ui/icons/Feedback";
 
-import { Avatar } from "@material-ui/core";
-
 import "./StylingSheets/SideBar.css";
 
 
 function Sidebar() {
 return (
   <div className="sidebar">
-    <SidebarRow selected Icon={HomeIcon} title="Home" />
-    <SidebarRow Icon={WhatshotIcon} title="Trending" />
-    <SidebarRow Icon={SubscriptionsSharpIcon} title="Subscription" />
-    <hr />
-    <SidebarRow Icon={VideoLibraryIcon} title="Library" />
-    <SidebarRow Icon={HistoryIcon} title="History" />
-    <SidebarRow Icon={OndemandVideoIcon} title="Your Videos" />
-    <SidebarRow Icon={WatchLaterIcon} title="Watch Later" />
-    <SidebarRow Icon={ThumbUpAltOutlinedIcon} title="Liked Videos" />
-    <SidebarRow Icon={ExpandMoreOutlinedIcon} title="Show more" />
-    <hr />
-    <SidebarRow Icon={SettingsIcon} title="Settings" />
-    <SidebarRow Icon={FlagIcon} title="Report History" />
-    <SidebarRow Icon={HelpIcon} title="Help" />
-    <SidebarRow Icon={FeedbackIcon} title="Send Feedback" />
-    <hr />
+    <SidebarRow selected Icon={HomeIcon} title="Home"/>
+    <SidebarRow Icon={WhatshotIcon} title="Trending"/>
+    <SidebarRow Icon={SubscriptionsSharpIcon} title="Subscription"/>
+    <hr/>
+    <SidebarRow Icon={VideoLibraryIcon} title="Library"/>
+    <SidebarRow Icon={HistoryIcon} title="History"/>
+    <SidebarRow Icon={OndemandVideoIcon} title="Your Videos"/>
+    <SidebarRow Icon={WatchLaterIcon} title="Watch Later"/>
+    <SidebarRow Icon={ThumbUpAltOutlinedIcon} title="Liked Videos"/>
+    <SidebarRow Icon={ExpandMoreOutlinedIcon} title="Show more"/>
+    <hr/>
+    <SidebarRow Icon={SettingsIcon} title="Settings"/>
+    <SidebarRow Icon={FlagIcon} title="Report History"/>
+    <SidebarRow Icon={HelpIcon} title="Help"/>
+    <SidebarRow Icon={FeedbackIcon} title="Send Feedback"/>
+     <hr/>
   </div>
 );
 }
