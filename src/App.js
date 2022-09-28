@@ -5,7 +5,8 @@ import { BrowserRouter as Router } from "react-router-dom";
 import Sidebar from "./Components/SideBar";
 import FilterButton from "./Components/FilterVideoButton";
 
-// import VideoList from "./Components/VideosList"; .....This is importing json file from VideosList folder >> VideosListData.json
+import VideoList from "./Components/VideosList"; 
+// .....This is importing json file from VideosList folder >> VideosListData.json
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header />                         {/* Header section aka navbar */}
       <FilterButton />                   {/* Video Filter Buttons */}
       <Sidebar />                        {/*  Side static navbar without links but styled */}
+      <VideoList/>
     </Router>
   );
 }

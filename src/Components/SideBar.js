@@ -18,7 +18,7 @@ import FeedbackIcon from "@material-ui/icons/Feedback";
 
 import { Avatar } from "@material-ui/core";
 
-import "./SideBar.css";
+import "./StylingSheets/SideBar.css";
 
 
 function Sidebar() {

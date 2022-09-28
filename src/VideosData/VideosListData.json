@@ -5,8 +5,8 @@
     "videoName": "LOTUS - Everything You Need to Know | Up To Speed",
     "videoId": "https://www.youtube.com/watch?v=e3EfNfE8pCU",
     "views": 2472719,
-    "channelThumbnail": "donut.jpg",
-    "videoThumbnail": "lotus-everything-you-need-to-know.jpg"
+    "channelThumbnail": "/Content/donut.jpg",
+    "videoThumbnail": "/Content/lotus-everything-you-need-to-know.jpg"
   },
   {
     "id": 105,
@@ -14,8 +14,8 @@
     "videoName": "Dua Lipa - Levitating Featuring DaBaby (Official Music Video)",
     "videoId": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
     "views": 602451553,
-    "channelThumbnail": "dua-lipa.jpg",
-    "videoThumbnail": "levitating.jpg"
+    "channelThumbnail": "/Content/channels/dua-lipa.jpg",
+    "videoThumbnail": "/Content/levitating.jpg"
   },
   {
     "id": 104,
@@ -23,8 +23,8 @@
     "videoName": "Dua Lipa - Love Again (Official Music Video)",
     "videoId": "https://www.youtube.com/watch?v=BC19kwABFwc",
     "views": 203228730,
-    "channelThumbnail": "dua-lipa.jpg",
-    "videoThumbnail": "love-again.jpg"
+    "channelThumbnail": "/Content/channels/dua-lipa.jpg",
+    "videoThumbnail": "/Content/love-again.jpg"
   },
   {
     "id": 107,
@@ -32,8 +32,8 @@
     "videoName": "Dua Lipa - New Rules (Official Music Video)",
     "videoId": "https://www.youtube.com/watch?v=k2qgadSvNyU",
     "views": 2724816745,
-    "channelThumbnail": "dua-lipa.jpg",
-    "videoThumbnail": "new-rules.jpg"
+    "channelThumbnail": "/Content/channels/dua-lipa.jpg",
+    "videoThumbnail": "/Content/new-rules.jpg"
   },
   {
     "id": 106,
@@ -41,8 +41,8 @@
     "videoName": "Dua Lipa - Physical (Official Video)",
     "videoId": "https://www.youtube.com/watch?v=9HDEHj2yzew ",
     "views": 381219514,
-    "channelThumbnail": "dua-lipa.jpg",
-    "videoThumbnail": "physical.jpg"
+    "channelThumbnail": "/Content/channels/dua-lipa.jpg",
+    "videoThumbnail": "/Content/physical.jpg"
   },
   {
     "id": 111,
@@ -50,8 +50,8 @@
     "videoName": "Homeworld 3 Official Gameplay Trailer | gamescom ONL 2022",
     "videoId": "https://www.youtube.com/watch?v=kUmj0yruxkU ",
     "views": 66192,
-    "channelThumbnail": "gamespot.jpg",
-    "videoThumbnail": "homeworld-gameplay.jpg"
+    "channelThumbnail": "/Content/channels/gamespot.jpg",
+    "videoThumbnail": "/Content/homeworld-gameplay.jpg"
   },
   {
     "id": 114,
@@ -59,8 +59,8 @@
     "videoName": "Homeworld 3 Reveal Trailer | Game Awards 2021",
     "videoId": "https://www.youtube.com/watch?v=pacXW5eZb9w ",
     "views": 103907,
-    "channelThumbnail": "gamespot.jpg",
-    "videoThumbnail": "homeworld-reveal.jpg"
+    "channelThumbnail": "/Content/channels/gamespot.jpg",
+    "videoThumbnail": "/Content/homeworld-reveal.jpg"
   },
   {
     "id": 115,
@@ -68,7 +68,7 @@
     "videoName": "Apple A16 Bionic - It's All About Power Efficiency",
     "videoId": "https://www.youtube.com/watch?v=fA0pNMEPmLQ",
     "views": 3170,
-    "channelThumbnail": "gary-explains.jpg",
+    "channelThumbnail": "/Content/channels/gary-explains.jpg",
     "videoThumbnail": "apple-bionic.jpg"
   },
   {
@@ -77,7 +77,7 @@
     "videoName": "We WILL Fix Climate Change!",
     "videoId": "https://www.youtube.com/watch?v=LxgMdjyw8uw ",
     "views": 8904178,
-    "channelThumbnail": "in-a-nutshell.jpg",
+    "channelThumbnail": "/Content/channels/in-a-nutshell.jpg",
     "videoThumbnail": "climate-change.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "videoName": "The Ultimate Game Boy Talk (33c3)",
     "videoId": "https://www.youtube.com/watch?v=HyzD8pNlpwI",
     "views": 173366,
-    "channelThumbnail": "media-ccc-de.jpg",
+    "channelThumbnail": "/Content/channels/media-ccc-de.jpg",
     "videoThumbnail": "ultimate-game-boy.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "videoName": "The 26 Best Game Boy Advance (GBA) Games of All Time",
     "videoId": "https://www.youtube.com/watch?v=bhK3W_3CW7w ",
     "views": 2232114,
-    "channelThumbnail": "nintendo-life.jpg",
+    "channelThumbnail": "/Content/channels/nintendo-life.jpg",
     "videoThumbnail": "26-best-games.jpg"
   },
   {
@@ -104,7 +104,7 @@
     "videoName": "Top Gun: Maverick - Official Trailer IN LEGO",
     "videoId": "https://www.youtube.com/watch?v=bEzbim8peGU ",
     "views": 2290026,
-    "channelThumbnail": "on-beat-man.jpg",
+    "channelThumbnail": "/Content/channels/on-beat-man.jpg",
     "videoThumbnail": "top-gun-lego.jpg"
   },
   {
@@ -113,7 +113,7 @@
     "videoName": "Honest Trailers | James Bond: No Time To Die",
     "videoId": "https://www.youtube.com/watch?v=ZYW0pzjeH7g&t=288s",
     "views": 1585622,
-    "channelThumbnail": "screen-junkies.jpg",
+    "channelThumbnail": "/Content/channels/screen-junkies.jpg",
     "videoThumbnail": "james-bond.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "videoName": "Honest Trailers | Street Fighter",
     "videoId": "https://www.youtube.com/watch?v=-TF7qMGvjxA ",
     "views": 1177492,
-    "channelThumbnail": "screen-junkies.jpg",
+    "channelThumbnail": "/Content/channels/screen-junkies.jpg",
     "videoThumbnail": "street-fighter.jpg"
   },
   {
@@ -131,7 +131,7 @@
     "videoName": "Honest Trailers | Top Gun: Maverick",
     "videoId": "https://www.youtube.com/watch?v=iDVLr4_ckqI ",
     "views": 1236478,
-    "channelThumbnail": "screen-junkies.jpg",
+    "channelThumbnail": "/Content/channels/screen-junkies.jpg",
     "videoThumbnail": "top-gun.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "videoName": "How to Write an Essay: 4 Minute Step-by-step Guide | Scribbr",
     "videoId": "https://www.youtube.com/watch?v=UuOWNNvupik",
     "views": 962836,
-    "channelThumbnail": "scribbr.jpg",
+    "channelThumbnail": "/Content/channels/scribbr.jpg",
     "videoThumbnail": "writte-an-essay.jpg"
   },
   {
@@ -149,7 +149,7 @@
     "videoName": "I'm Still Buying The Game Boy Color In 2021...Here's Why",
     "videoId": "https://www.youtube.com/watch?v=mMq_EhjeXI8",
     "views": 141896,
-    "channelThumbnail": "spawn-wave.jpg",
+    "channelThumbnail": "/Content/channels/spawn-wave.jpg",
     "videoThumbnail": "game-boy-color-review.jpg"
   },
   {
@@ -158,7 +158,7 @@
     "videoName": "The Making of Street Fighter II",
     "videoId": "https://www.youtube.com/watch?v=USC6c9Dtak8",
     "views": 1066737,
-    "channelThumbnail": "stratefox.jpg",
+    "channelThumbnail": "/Content/channels/stratefox.jpg",
     "videoThumbnail": "street-fighter-2.jpg"
   },
   {
@@ -167,7 +167,7 @@
     "videoName": "Top Gear ~ Lotus Esprit Review",
     "videoId": "https://www.youtube.com/watch?v=8pn44AmMA4s",
     "views": 61193,
-    "channelThumbnail": "van.jpg",
+    "channelThumbnail": "/Content/channels/van.jpg",
     "videoThumbnail": "lotus-esprit-review.jpg"
   },
   {
@@ -176,7 +176,7 @@
     "videoName": "Why heaters are the future of cooling",
     "videoId": "https://www.youtube.com/watch?v=PIulbHyK0bc ",
     "views": 2198891,
-    "channelThumbnail": "vox.jpg",
+    "channelThumbnail": "/Content/channels/vox.jpg",
     "videoThumbnail": "heat-pump.jpg"
   },
   {
@@ -185,7 +185,7 @@
     "videoName": "Dua Lipa Answers the Web's Most Searched Questions | WIRED",
     "videoId": "https://www.youtube.com/watch?v=esfChb49_Rk",
     "views": 12691138,
-    "channelThumbnail": "wired.jpg",
+    "channelThumbnail": "/Content/channels/wired.jpg",
     "videoThumbnail": "dua-lipa-interview"
   }
 ]
